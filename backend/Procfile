@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT mukiki_3682.wsgi:application
